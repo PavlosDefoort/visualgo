@@ -1,0 +1,1 @@
+#define PADDING 25.0f
